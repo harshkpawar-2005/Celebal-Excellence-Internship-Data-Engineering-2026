@@ -119,3 +119,11 @@ Week-1/shopping-analysis/
 ## Outcome
 
 By the end of Week 1, I gained hands-on experience in data loading, cleaning, transformation, analysis, and visualization using Python and Pandas. I also completed a real-world dataset analysis project and published it on GitHub using a structured project workflow.
+
+## Author
+
+**Harshal Pawar**
+
+B.E. Artificial Intelligence & Data Science  
+Dr. D. Y. Patil Institute of Technology, Pimpri, Pune  
+Data Engineering Intern

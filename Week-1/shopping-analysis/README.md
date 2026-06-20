@@ -123,4 +123,8 @@ shopping-analysis/
 
 ## Author
 
-Harshal Pawar
+**Harshal Pawar**
+
+B.E. Artificial Intelligence & Data Science  
+Dr. D. Y. Patil Institute of Technology, Pimpri, Pune  
+Data Engineering Intern

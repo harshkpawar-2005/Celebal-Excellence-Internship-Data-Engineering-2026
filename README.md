@@ -95,4 +95,6 @@ Week-1/shopping-analysis/
 
 **Harshal Pawar**
 
-Data Engineering Intern | Backend Developer
+B.E. Artificial Intelligence & Data Science  
+Dr. D. Y. Patil Institute of Technology, Pimpri, Pune  
+Data Engineering Intern
