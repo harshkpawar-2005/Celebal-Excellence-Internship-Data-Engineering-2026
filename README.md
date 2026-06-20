@@ -1,0 +1,98 @@
+# Celebal Technologies Data Engineering Internship
+
+This repository contains all assignments, projects, and learning activities completed during the Celebal Technologies Data Engineering Internship Program.
+
+The objective of this internship is to build practical skills in Python, SQL, Data Engineering concepts, Azure Data Factory, Apache Spark, Databricks, and end-to-end data pipeline development.
+
+---
+
+## Repository Structure
+
+### Week 1 - Shopping Dataset Analysis
+
+**Topics Covered**
+- Python Basics
+- Pandas
+- Data Exploration
+- Data Cleaning
+- Missing Value Handling
+- Feature Engineering
+- Data Visualization
+
+**Assignment**
+- Basic Data Exploration and Cleaning using Pandas
+- Shopping Dataset Analysis
+
+**Project Location**
+
+```text
+Week-1/shopping-analysis/
+```
+
+---
+
+## Technologies Covered
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+## Upcoming Topics
+
+### Week 2
+- SQL Basics
+- SELECT, WHERE
+- GROUP BY
+- Aggregate Functions
+- Joins
+- Constraints
+- Indexes
+
+### Week 3
+- Subqueries
+- CTEs
+- Window Functions
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+
+### Week 4
+- ETL vs ELT
+- Azure Fundamentals
+- Azure Data Factory
+- Blob Storage
+- Data Pipelines
+
+### Week 5
+- Data Cleaning
+- Data Transformation
+- Spark Introduction
+
+### Week 6
+- Apache Spark
+- DataFrames
+- Partitioning
+- CSV vs Parquet
+
+### Week 7
+- Databricks
+- Delta Lake
+- MERGE Operations
+- Data Modeling
+
+### Week 8
+- End-to-End Data Pipeline Project
+- Bronze/Silver/Gold Architecture
+- E-Commerce Order Analytics System
+
+---
+
+## Author
+
+**Harshal Pawar**
+
+Data Engineering Intern | Backend Developer
