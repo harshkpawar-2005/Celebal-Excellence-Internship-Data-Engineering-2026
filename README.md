@@ -1,12 +1,12 @@
 # Celebal Technologies Data Engineering Internship
 
-This repository contains all assignments, projects, and learning activities completed during the Celebal Technologies Data Engineering Internship Program.
+This repository contains all assignments and learning activities completed during the **Celebal Technologies Data Engineering Internship Program**.
 
 The objective of this internship is to build practical skills in Python, SQL, Data Engineering concepts, Azure Data Factory, Apache Spark, Databricks, and end-to-end data pipeline development.
 
 ---
 
-## Repository Structure
+# Repository Structure
 
 ### Week 1 - Shopping Dataset Analysis
 
@@ -23,10 +23,43 @@ The objective of this internship is to build practical skills in Python, SQL, Da
 - Basic Data Exploration and Cleaning using Pandas
 - Shopping Dataset Analysis
 
-**Project Location**
+**Location**
 
 ```text
 Week-1/shopping-analysis/
+```
+
+---
+
+### Week 2 - SQL Basics
+
+**Topics Covered**
+- SQL Fundamentals
+- SELECT
+- WHERE
+- DISTINCT
+- ORDER BY
+- BETWEEN
+- GROUP BY
+- Aggregate Functions
+- Primary Keys
+- Foreign Keys
+- Constraints
+- Indexes
+- INNER JOIN
+- LEFT JOIN
+- CASE Statements
+- Transactions
+- ACID Properties
+
+**Assignment**
+- SQL-Based Data Analysis
+- E-Commerce Sales Database
+
+**Location**
+
+```text
+Week-2/sql-assignment/
 ```
 
 ---
@@ -38,23 +71,17 @@ Week-1/shopping-analysis/
 - NumPy
 - Matplotlib
 - Seaborn
+- MySQL
+- MySQL Workbench
+- SQL
 
 ---
 
 ## Upcoming Topics
 
-### Week 2
-- SQL Basics
-- SELECT, WHERE
-- GROUP BY
-- Aggregate Functions
-- Joins
-- Constraints
-- Indexes
-
 ### Week 3
 - Subqueries
-- CTEs
+- Common Table Expressions (CTEs)
 - Window Functions
 - ROW_NUMBER()
 - RANK()
@@ -70,11 +97,11 @@ Week-1/shopping-analysis/
 ### Week 5
 - Data Cleaning
 - Data Transformation
-- Spark Introduction
+- Apache Spark Fundamentals
 
 ### Week 6
 - Apache Spark
-- DataFrames
+- Spark DataFrames
 - Partitioning
 - CSV vs Parquet
 
@@ -85,9 +112,24 @@ Week-1/shopping-analysis/
 - Data Modeling
 
 ### Week 8
-- End-to-End Data Pipeline Project
-- Bronze/Silver/Gold Architecture
-- E-Commerce Order Analytics System
+- End-to-End Data Engineering Pipeline
+- Bronze, Silver & Gold Architecture
+- E-Commerce Order Analytics
+
+---
+
+## Progress
+
+| Week | Module | Status |
+|------|--------|--------|
+| Week 1 | Python Basics & Pandas | ✅ Completed |
+| Week 2 | SQL Fundamentals | ✅ Completed |
+| Week 3 | Advanced SQL | ⏳ Upcoming |
+| Week 4 | Azure Data Factory | ⏳ Upcoming |
+| Week 5 | Apache Spark Fundamentals | ⏳ Upcoming |
+| Week 6 | Apache Spark | ⏳ Upcoming |
+| Week 7 | Databricks & Delta Lake | ⏳ Upcoming |
+| Week 8 | End-to-End Data Engineering Project | ⏳ Upcoming |
 
 ---
 
@@ -95,6 +137,6 @@ Week-1/shopping-analysis/
 
 **Harshal Pawar**
 
+Data Engineering Intern  
 B.E. Artificial Intelligence & Data Science  
-Dr. D. Y. Patil Institute of Technology, Pimpri, Pune  
-Data Engineering Intern
+Dr. D. Y. Patil Institute of Technology, Pimpri, Pune
