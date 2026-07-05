@@ -64,6 +64,31 @@ Week-2/sql-assignment/
 
 ---
 
+### Week 3 - Advanced SQL Analytics
+
+**Topics Covered**
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- ROW_NUMBER()
+- RANK()
+- DENSE_RANK()
+- PARTITION BY
+- Business Analytics Queries
+- Customer Sales Analysis
+
+**Assignment**
+- Advanced SQL Analytics using the Superstore Dataset
+- Customer Sales Insights
+
+**Location**
+
+```text
+Week-3/sql-advanced-analytics/
+```
+
+---
+
 ## Technologies Covered
 
 - Python
@@ -78,14 +103,6 @@ Week-2/sql-assignment/
 ---
 
 ## Upcoming Topics
-
-### Week 3
-- Subqueries
-- Common Table Expressions (CTEs)
-- Window Functions
-- ROW_NUMBER()
-- RANK()
-- DENSE_RANK()
 
 ### Week 4
 - ETL vs ELT
@@ -124,7 +141,7 @@ Week-2/sql-assignment/
 |------|--------|--------|
 | Week 1 | Python Basics & Pandas | ✅ Completed |
 | Week 2 | SQL Fundamentals | ✅ Completed |
-| Week 3 | Advanced SQL | ⏳ Upcoming |
+| Week 3 | Advanced SQL Analytics | ✅ Completed |
 | Week 4 | Azure Data Factory | ⏳ Upcoming |
 | Week 5 | Apache Spark Fundamentals | ⏳ Upcoming |
 | Week 6 | Apache Spark | ⏳ Upcoming |
