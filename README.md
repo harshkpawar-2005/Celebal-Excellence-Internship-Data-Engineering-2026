@@ -102,14 +102,38 @@ Week-3/sql-advanced-analytics/
 
 ---
 
-## Upcoming Topics
+### Week 4 - Azure Cloud Fundamentals
 
-### Week 4
+**Topics Covered**
+
 - ETL vs ELT
-- Azure Fundamentals
+- Incremental Loading
+- Batch vs Streaming
+- Azure Resource Group
+- Azure Storage Account
+- Azure Blob Storage
 - Azure Data Factory
-- Blob Storage
-- Data Pipelines
+- Linked Services
+- Datasets
+- Get Metadata Activity
+- Copy Data Activity
+- Pipeline Triggers
+- Pipeline Monitoring
+- IAM Roles
+- End-to-End Data Pipeline
+
+**Assignment**
+
+- Azure Cloud Fundamentals and Data Pipeline using Azure Data Factory
+- Blob Storage to Blob Storage Data Pipeline
+
+**Location**
+
+```text
+Week-4/azure-adf-pipeline/
+```
+
+## Upcoming Topics
 
 ### Week 5
 - Data Cleaning
