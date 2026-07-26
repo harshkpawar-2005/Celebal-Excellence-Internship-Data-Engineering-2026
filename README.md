@@ -2,15 +2,16 @@
 
 This repository contains all assignments and learning activities completed during the **Celebal Technologies Data Engineering Internship Program**.
 
-The objective of this internship is to build practical skills in Python, SQL, Data Engineering concepts, Azure Data Factory, Apache Spark, Databricks, and end-to-end data pipeline development.
+The internship focuses on building practical skills in **Python, SQL, Azure Data Factory, Apache Spark, Databricks, and modern Data Engineering** through hands-on assignments and end-to-end data pipeline development.
 
 ---
 
 # Repository Structure
 
-### Week 1 - Shopping Dataset Analysis
+## Week 1 – Shopping Dataset Analysis
 
-**Topics Covered**
+### Topics Covered
+
 - Python Basics
 - Pandas
 - Data Exploration
@@ -19,11 +20,12 @@ The objective of this internship is to build practical skills in Python, SQL, Da
 - Feature Engineering
 - Data Visualization
 
-**Assignment**
+### Assignment
+
 - Basic Data Exploration and Cleaning using Pandas
 - Shopping Dataset Analysis
 
-**Location**
+### Location
 
 ```text
 Week-1/shopping-analysis/
@@ -31,9 +33,10 @@ Week-1/shopping-analysis/
 
 ---
 
-### Week 2 - SQL Basics
+## Week 2 – SQL Basics
 
-**Topics Covered**
+### Topics Covered
+
 - SQL Fundamentals
 - SELECT
 - WHERE
@@ -52,11 +55,12 @@ Week-1/shopping-analysis/
 - Transactions
 - ACID Properties
 
-**Assignment**
+### Assignment
+
 - SQL-Based Data Analysis
 - E-Commerce Sales Database
 
-**Location**
+### Location
 
 ```text
 Week-2/sql-assignment/
@@ -64,9 +68,10 @@ Week-2/sql-assignment/
 
 ---
 
-### Week 3 - Advanced SQL Analytics
+## Week 3 – Advanced SQL Analytics
 
-**Topics Covered**
+### Topics Covered
+
 - Subqueries
 - Common Table Expressions (CTEs)
 - Window Functions
@@ -77,11 +82,12 @@ Week-2/sql-assignment/
 - Business Analytics Queries
 - Customer Sales Analysis
 
-**Assignment**
+### Assignment
+
 - Advanced SQL Analytics using the Superstore Dataset
 - Customer Sales Insights
 
-**Location**
+### Location
 
 ```text
 Week-3/sql-advanced-analytics/
@@ -89,22 +95,9 @@ Week-3/sql-advanced-analytics/
 
 ---
 
-## Technologies Covered
+## Week 4 – Azure Cloud Fundamentals
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- MySQL
-- MySQL Workbench
-- SQL
-
----
-
-### Week 4 - Azure Cloud Fundamentals
-
-**Topics Covered**
+### Topics Covered
 
 - ETL vs ELT
 - Incremental Loading
@@ -122,59 +115,131 @@ Week-3/sql-advanced-analytics/
 - IAM Roles
 - End-to-End Data Pipeline
 
-**Assignment**
+### Assignment
 
 - Azure Cloud Fundamentals and Data Pipeline using Azure Data Factory
 - Blob Storage to Blob Storage Data Pipeline
 
-**Location**
+### Location
 
 ```text
 Week-4/azure-adf-pipeline/
 ```
 
-## Upcoming Topics
+---
 
-### Week 5
+## Week 5 – Apache Spark (PySpark)
+
+### Topics Covered
+
+- Apache Spark Fundamentals
+- SparkSession
+- Reading CSV Files
+- Spark DataFrames
 - Data Cleaning
 - Data Transformation
-- Apache Spark Fundamentals
+- Filtering
+- Aggregations
+- Building Data Processing Pipelines
 
-### Week 6
-- Apache Spark
-- Spark DataFrames
-- Partitioning
+### Assignment
+
+- Apache Spark (PySpark) Assignment
+- Customer Personality Analysis Dataset
+
+### Location
+
+```text
+Week-5/
+```
+
+---
+
+## Week 6 – Apache Spark Data Processing
+
+### Topics Covered
+
+- Apache Spark Architecture
+- SparkSession
+- Schema Inference
+- Data Exploration
+- DataFrame Transformations
+- Filtering
+- Column Operations
+- Handling Missing Values
+- GroupBy & Aggregations
+- Lazy Evaluation
+- Directed Acyclic Graph (DAG)
+- Narrow & Wide Transformations
 - CSV vs Parquet
 
+### Assignment
+
+- Apache Spark Data Processing using the Superstore Dataset
+
+### Location
+
+```text
+Week-6/spark-assignment/
+```
+
+---
+
+## Upcoming Topics
+
 ### Week 7
+
 - Databricks
 - Delta Lake
 - MERGE Operations
 - Data Modeling
 
 ### Week 8
+
 - End-to-End Data Engineering Pipeline
 - Bronze, Silver & Gold Architecture
 - E-Commerce Order Analytics
 
 ---
 
-## Progress
+# Technologies Covered
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- SQL
+- MySQL
+- MySQL Workbench
+- Microsoft Azure
+- Azure Data Factory
+- Azure Blob Storage
+- Apache Spark
+- PySpark
+- Google Colab
+- Jupyter Notebook
+- Git
+- GitHub
+
+---
+
+# Progress
 
 | Week | Module | Status |
 |------|--------|--------|
 | Week 1 | Python Basics & Pandas | ✅ Completed |
 | Week 2 | SQL Fundamentals | ✅ Completed |
 | Week 3 | Advanced SQL Analytics | ✅ Completed |
-| Week 4 | Azure Data Factory | ⏳ Upcoming |
-| Week 5 | Apache Spark Fundamentals | ⏳ Upcoming |
-| Week 6 | Apache Spark | ⏳ Upcoming |
+| Week 4 | Azure Cloud Fundamentals | ✅ Completed |
+| Week 5 | Apache Spark (PySpark) | ✅ Completed |
+| Week 6 | Apache Spark Data Processing | ✅ Completed |
 | Week 7 | Databricks & Delta Lake | ⏳ Upcoming |
-| Week 8 | End-to-End Data Engineering Project | ⏳ Upcoming |
+| Week 8 | End-to-End Data Engineering Pipeline | ⏳ Upcoming |
 
 ---
 
-## Author
+# Author
 
 **Harshal Pawar**
 
