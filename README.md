@@ -2,7 +2,7 @@
 
 This repository contains all assignments and learning activities completed during the **Celebal Technologies Data Engineering Internship Program**.
 
-The internship focuses on building practical skills in **Python, SQL, Azure Data Factory, Apache Spark, Databricks, and modern Data Engineering** through hands-on assignments and end-to-end data pipeline development.
+The internship focuses on building practical skills in **Python, SQL, Azure Data Factory, Apache Spark, Databricks, Delta Lake, and modern Data Engineering** through hands-on assignments and end-to-end data pipeline development.
 
 ---
 
@@ -150,7 +150,7 @@ Week-4/azure-adf-pipeline/
 ### Location
 
 ```text
-Week-5/
+Week-5/pyspark-assignment/
 ```
 
 ---
@@ -180,19 +180,40 @@ Week-5/
 ### Location
 
 ```text
-Week-6/spark-assignment/
+Week-6/spark-data-processing/
+```
+
+---
+
+## Week 7 – Databricks & Delta Lake
+
+### Topics Covered
+
+- Databricks Workspace
+- Notebook & Cluster Management
+- ACID Transactions
+- Delta Table Versioning
+- Fact & Dimension Modeling
+- MERGE (Upsert) Operations
+- Data Layering Architecture
+- Incremental Data Processing
+- SCD Type 1 Implementation
+- Data Validation
+
+### Assignment
+
+- Delta Lake Incremental Data Processing Assignment
+- MERGE Operation using Delta Lake
+
+### Location
+
+```text
+Week-7/delta-lake-assignment/
 ```
 
 ---
 
 ## Upcoming Topics
-
-### Week 7
-
-- Databricks
-- Delta Lake
-- MERGE Operations
-- Data Modeling
 
 ### Week 8
 
@@ -217,6 +238,8 @@ Week-6/spark-assignment/
 - Azure Blob Storage
 - Apache Spark
 - PySpark
+- Databricks
+- Delta Lake
 - Google Colab
 - Jupyter Notebook
 - Git
@@ -234,7 +257,7 @@ Week-6/spark-assignment/
 | Week 4 | Azure Cloud Fundamentals | ✅ Completed |
 | Week 5 | Apache Spark (PySpark) | ✅ Completed |
 | Week 6 | Apache Spark Data Processing | ✅ Completed |
-| Week 7 | Databricks & Delta Lake | ⏳ Upcoming |
+| Week 7 | Databricks & Delta Lake | ✅ Completed |
 | Week 8 | End-to-End Data Engineering Pipeline | ⏳ Upcoming |
 
 ---
