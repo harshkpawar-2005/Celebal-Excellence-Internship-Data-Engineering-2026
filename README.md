@@ -2,7 +2,7 @@
 
 This repository contains all assignments and learning activities completed during the **Celebal Technologies Data Engineering Internship Program**.
 
-The internship focuses on building practical skills in **Python, SQL, Azure Data Factory, Apache Spark, Databricks, Delta Lake, and modern Data Engineering** through hands-on assignments and end-to-end data pipeline development.
+The internship focuses on building practical skills in **Python, SQL, Azure Data Factory, Apache Spark, Databricks, Delta Lake, and modern Data Engineering** through hands-on assignments and end-to-end data processing and analytics workflows.
 
 ---
 
@@ -213,13 +213,42 @@ Week-7/delta-lake-assignment/
 
 ---
 
-## Upcoming Topics
+## Week 8 – E-Commerce Order Analytics
 
-### Week 8
+### Topics Covered
 
-- End-to-End Data Engineering Pipeline
-- Bronze, Silver & Gold Architecture
-- E-Commerce Order Analytics
+- Synthetic Data Generation
+- Data Quality and Validation
+- Data Cleaning using Pandas
+- Missing Value Handling
+- Data Standardization
+- Regular Expression Validation
+- Referential Integrity
+- SQLite Database
+- SQL Aggregations
+- Subqueries
+- Common Table Expressions (CTEs)
+- Window Functions
+- Running Totals
+- Ranking and Segmentation
+- Year-over-Year Analysis
+- Cohort Analysis
+- Python-SQL Integration
+- Command-Line Reporting
+- Edge-Case Handling
+
+### Assignment
+
+- E-Commerce Order Analytics System
+- Synthetic E-Commerce Data Processing
+- SQL-Based Business Analysis
+- Python-SQL Command-Line Reporting
+
+### Location
+
+```text
+Week-8/ecommerce-order-analytics/
+```
 
 ---
 
@@ -233,6 +262,7 @@ Week-7/delta-lake-assignment/
 - SQL
 - MySQL
 - MySQL Workbench
+- SQLite
 - Microsoft Azure
 - Azure Data Factory
 - Azure Blob Storage
@@ -258,7 +288,7 @@ Week-7/delta-lake-assignment/
 | Week 5 | Apache Spark (PySpark) | ✅ Completed |
 | Week 6 | Apache Spark Data Processing | ✅ Completed |
 | Week 7 | Databricks & Delta Lake | ✅ Completed |
-| Week 8 | End-to-End Data Engineering Pipeline | ⏳ Upcoming |
+| Week 8 | E-Commerce Order Analytics | ✅ Completed |
 
 ---
 
@@ -268,4 +298,4 @@ Week-7/delta-lake-assignment/
 
 Data Engineering Intern  
 B.E. Artificial Intelligence & Data Science  
-Dr. D. Y. Patil Institute of Technology, Pimpri, Pune
+Dr. D. Y. Patil Institute of Technology, Pimpri
