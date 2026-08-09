@@ -1,0 +1,501 @@
+product_id,product_name,category,subcategory,cost_price
+1,Boat Rockerz 550,Electronics,Headphones,14048
+2,Soap Dispenser,Home & Kitchen,Bathroom Accessories,5297
+3,Calcium Supplement,Health,Vitamins,2624
+4,Pen Stand,Office Supplies,Desk Organizers,443
+5,Scrabble,Toys & Games,Board Games,1888
+6,Redragon K552,Electronics,Keyboard,3181
+7,Blue Ocean Strategy,Books,Business,1682
+8,Captain America Figure,Toys & Games,Action Figures,1333
+9,Running Shoes,Clothing,Footwear,9837
+10,Dell Optical Mouse,Electronics,Mouse,2962
+11,Cotton Crew Neck Tee,Clothing,T-Shirt,706
+12,The Hobbit,Books,Fiction,356
+13,System Design Guide,Books,Technology,3242
+14,Wallet,Clothing,Accessories,2104
+15,Road Bike,Sports & Fitness,Cycling,35024
+16,LED Table Lamp,Home & Kitchen,Lighting,9981
+17,Corsair K55,Electronics,Keyboard,3574
+18,500 Piece Puzzle,Toys & Games,Puzzles,461
+19,Document Tray,Office Supplies,Desk Organizers,517
+20,Training Cones,Sports & Fitness,Football,13122
+21,Redragon Cobra,Electronics,Mouse,2054
+22,Sunscreen SPF 50,Beauty & Personal Care,Skincare,2995
+23,Sennheiser HD450BT,Electronics,Headphones,4258
+24,Captain America Figure,Toys & Games,Action Figures,3197
+25,Comforter,Home & Kitchen,Bedding,9048
+26,Sports Bottle,Sports & Fitness,Running,7636
+27,Epson Ink Bottle,Office Supplies,Printer Supplies,4322
+28,Puffer Jacket,Clothing,Jacket,5495
+29,Bridgestone Tubeless Tyre,Automotive,Tyres,24395
+30,iron man figure,Toys & Games,Action Figures,2324
+31,Hair Oil,Beauty & Personal Care,Haircare,1018
+32,Compact Powder,Beauty & Personal Care,Makeup,4781
+33,Desk Organizer Box,Office Supplies,Desk Organizers,2376
+34,Canon PIXMA G3010,Electronics,Printer,7805
+35,Ikigai,Books,Self Help,1387
+36,Good to Great,Books,Business,2135
+37,OnePlus 13,Electronics,Smartphone,37045
+38,500 Piece Puzzle,Toys & Games,Puzzles,1404
+39,Brother Drum Unit,Office Supplies,Printer Supplies,9368
+40,Medical Tape,Health,First Aid,2354
+41,Waterproof Mascara,Beauty & Personal Care,Makeup,4638
+42,Yoga Block,Sports & Fitness,Yoga,1288
+43,Steve Jobs,Books,Biography,1771
+44,Heating Pad,Health,Healthcare,1769
+45,Blue Ocean Strategy,Books,Business,2448
+46,HP Ink Cartridge,Office Supplies,Printer Supplies,3480
+47,Treadmill,Sports & Fitness,Gym Equipment,24519
+48,Batting Pads,Sports & Fitness,Cricket,4447
+49,Cricket Bat,Sports & Fitness,Cricket,18432
+50,Grip Tape,Sports & Fitness,Badminton,2180
+51,Nikon Z50,Electronics,Camera,81524
+52,Off Road Helmet,Automotive,Helmets,3820
+53,Redragon K552,Electronics,Keyboard,1434
+54,Floral Dress,Clothing,Dress,1406
+55,Pen Stand,Office Supplies,Desk Organizers,721
+56,Coffee Mug Set,Home & Kitchen,Dining,1695
+57,Thinking Fast and Slow,Books,Non-Fiction,1032
+58,RC Racing Bike,Toys & Games,Remote Control Toys,13955
+59,Conference Table,Office Supplies,Office Furniture,26928
+60,Off Road Helmet,Automotive,Helmets,14892
+61,Pocket Notebook,Office Supplies,Notebooks,632
+62,File Folder,Office Supplies,Stationery,253
+63,The Gene,Books,Science,732
+64,Flower Vase,Home & Kitchen,Home Decor,18387
+65,Slim Fit Jeans,Clothing,Jeans,4146
+66,Servo Engine Oil,Automotive,Engine Oil,4349
+67,Cricket Ball,Sports & Fitness,Cricket,9740
+68,Running Shoes,Sports & Fitness,Running,11762
+69,  The Silk Road,Books,History,1654
+70,Think and Grow Rich,Books,Self Help,1365
+71,Clean Code,Books,Technology,1082
+72,Graphic Print T-Shirt,Clothing,T-Shirt,1823
+73,Yoga Strap,Sports & Fitness,Yoga,1318
+74,  Mobil 1 Engine Oil,Automotive,Engine Oil,3797
+75,Sports Bottle,Sports & Fitness,Running,1817
+76,Sticky Notes,Office Supplies,Stationery,710
+77,HP Ink Cartridge,Office Supplies,Printer Supplies,1796
+78,Asterix Collection,Books,Comics,121
+79,Cricket Ball,Sports & Fitness,Cricket,15717
+80,Hot Water Bag,Health,Healthcare,2478
+81,Cutlery Set,Home & Kitchen,Dining,8356
+82,Formal Leather Shoes,Clothing,Footwear,7690
+83,Matte Lipstick,Beauty & Personal Care,Makeup,2834
+84,Woody Musk Cologne,Beauty & Personal Care,Fragrances,5222
+85,RC Sports Car,Toys & Games,Remote Control Toys,8451
+86,Oversized Hoodie,Clothing,Hoodie,3648
+87,Party Dress,Clothing,Dress,7557
+88,Brother HL-L2321D,Electronics,Printer,18541
+89,BenQ GW2480,Electronics,Monitor,29709
+90,Ruled Notebook,Office Supplies,Notebooks,828
+91,Samsung Odyssey G5,Electronics,Monitor,41993
+92,Pendant Light,Home & Kitchen,Lighting,14931
+93,Car Phone Holder,Automotive,Car Accessories,8141
+94,Desk Lamp,Home & Kitchen,Lighting,724
+95,Protein Powder,Health,Nutrition,2340
+96,Running Shoes,Clothing,Footwear,3522
+97,Mobil 1 Engine Oil,Automotive,Engine Oil,4668
+98,Swimming Costume,Sports & Fitness,Swimming,7936
+99,Rich Dad Poor Dad,Books,Business,892
+100,Uno Cards,Toys & Games,Board Games,4563
+101,Cookware Set,Home & Kitchen,Cookware,13159
+102,Optimus Prime Figure,Toys & Games,Action Figures,1394
+103,Dell KB216,Electronics,Keyboard,4511
+104,Towel Rack,Home & Kitchen,Bathroom Accessories,4167
+105,eyeshadow palette,Beauty & Personal Care,Makeup,9103
+106,Baby Doll,Toys & Games,Dolls,1845
+107,Tintin Adventures,Books,Comics,339
+108,Math Learning Board,Toys & Games,Educational Toys,4174
+109,Princess Doll,Toys & Games,Dolls,4357
+110,OnePlus Pad,Electronics,Tablet,50678
+111,Moisturizing Cream,Beauty & Personal Care,Skincare,1016
+112,Protein Powder,Health,Nutrition,1680
+113,500 Piece Puzzle,Toys & Games,Puzzles,456
+114,Dashboard Polish,Automotive,Car Care,5305
+115,100 Piece Puzzle,Toys & Games,Puzzles,1495
+116,Nutrition Bar   ,Health,Nutrition,5634
+117,MRF Car Tyre,Automotive,Tyres,22732
+118,Cotton Trousers,Clothing,Trousers,1631
+119,Maxi Dress,Clothing,Dress,7028
+120,Casual Sneakers,Clothing,Footwear,5906
+121,Lenovo IdeaPad Slim,Electronics,Laptop,42355
+122,Cycling Helmet,Sports & Fitness,Cycling,117901
+123,Indoor Plant Pot,Home & Kitchen,Home Decor,13802
+124,DOCUMENT TRAY,Office Supplies,Desk Organizers,796
+125,Frying Pan   ,Home & Kitchen,Cookware,14767
+126,RC Monster Truck,Toys & Games,Remote Control Toys,9153
+127,Executive Desk,Office Supplies,Office Furniture,32221
+128,Running Shorts,Sports & Fitness,Running,11425
+129,Noise ColorFit Ultra,Electronics,Smartwatch,46407
+130,Digital Thermometer,Health,Medical Devices,14974
+131,Hand Wash   ,Beauty & Personal Care,Personal Care,2717
+132,3D Puzzle,Toys & Games,Puzzles,2021
+133,Resistance Bands,Sports & Fitness,Gym Equipment,64335
+134,Cargo Pants,Clothing,Trousers,3042
+135,Hand Wash,Beauty & Personal Care,Personal Care,2964
+136,Cricket Helmet,Sports & Fitness,Cricket,9294
+137,Canon EOS R50,Electronics,Camera,139356
+138,Cable Organizer,Office Supplies,Desk Organizers,1272
+139,Spider-Man Origins,Books,Comics,324
+140,Spider-Man Origins,Books,Comics,794
+141,Non Stick Pan,Home & Kitchen,Cookware,5561
+142,Car Air Freshener,Automotive,Car Accessories,12255
+143,Cookware Set,Home & Kitchen,Cookware,5852
+144,Ludo Deluxe,Toys & Games,Board Games,1482
+145,Sterile Gauze,Health,First Aid,2155
+146,Badminton Net,Sports & Fitness,Badminton,8394
+147,Mountain Bike,Sports & Fitness,Cycling,127770
+148,Regular Blue Jeans,Clothing,Jeans,4055
+149,First Aid Kit,Health,First Aid,1716
+150,Corsair K55,Electronics,Keyboard,1512
+151,Dashboard Polish,Automotive,Car Care,4988
+152,3D Puzzle,Toys & Games,Puzzles,593
+153,Zero to One,Books,Business,1643
+154,  Ergonomic Office Chair,Office Supplies,Office Furniture,43641
+155,Mobil 1 Engine Oil,Automotive,Engine Oil,3844
+156,Slim Fit Jeans,Clothing,Jeans,1104
+157,Running Shoes,Sports & Fitness,Running,2092
+158,Fairy Tales,Books,Children,945
+159,Car Wax,Automotive,Car Care,3633
+160,Document Tray,Office Supplies,Desk Organizers,1799
+161,Sandals,Clothing,Footwear,7686
+162,Batting Gloves,Sports & Fitness,Cricket,7419
+163,Open Face Helmet,Automotive,Helmets,14815
+164,Aloe Vera Gel,Beauty & Personal Care,Skincare,4660
+165,Moisturizing Cream,Beauty & Personal Care,Skincare,2460
+166,The Psychology of Money,Books,Non-Fiction,343
+167,Marvel Avengers,Books,Comics,151
+168,Herbal Conditioner,Beauty & Personal Care,Haircare,3373
+169,Ergonomic Office Chair,Office Supplies,Office Furniture,38320
+170,Batman Vol.1,Books,Comics,932
+171,Wings of Fire,Books,Biography,1470
+172,HP Wireless Keyboard,Electronics,Keyboard,1564
+173,Bandage Roll,Health,First Aid,550
+174,iPad Air,Electronics,Tablet,35477
+175,Spider-Man Origins,Books,Comics,116
+176,LED Table Lamp,Home & Kitchen,Lighting,2576
+177,RC Sports Car,Toys & Games,Remote Control Toys,13216
+178,Sports Shoes,Clothing,Footwear,6931
+179,Whey Protein,Health,Protein Supplements,4702
+180,Nebulizer,Health,Medical Devices,1920
+181,Medical Tape,Health,First Aid,227
+182,Fire-Boltt Ninja,Electronics,Smartwatch,29936
+183,Sports Shoes,Clothing,Footwear,2204
+184,Fleece Hoodie,Clothing,Hoodie,2215
+185,Stretch Denim Jeans,Clothing,Jeans,3463
+186,RC Racing Bike,Toys & Games,Remote Control Toys,5831
+187,Bridgestone Tubeless Tyre,Automotive,Tyres,16596
+188,Denim Shirt,Clothing,Shirt,3352
+189,Ikigai,Books,Self Help,717
+190,Captain America Figure,Toys & Games,Action Figures,1933
+191,100 Piece Puzzle,Toys & Games,Puzzles,1430
+192,Batman Figure,Toys & Games,Action Figures,1833
+193,Shower Curtain,Home & Kitchen,Bathroom Accessories,947
+194,Checked Shirt,Clothing,Shirt,795
+195,Scalp Cleanser,Beauty & Personal Care,Haircare,395
+196,Marker Pen,Office Supplies,Writing Instruments,357
+197,Evening Dress,Clothing,Dress,7956
+198,100 Piece Puzzle,Toys & Games,Puzzles,1328
+199,epson ink bottle,Office Supplies,Printer Supplies,1997
+200,Gel Pen,Office Supplies,Writing Instruments,178
+201,Bike Helmet Lock,Automotive,Bike Accessories,5936
+202,First Aid Kit,Health,First Aid,1241
+203,Filing Cabinet,Office Supplies,Office Furniture,38763
+204,Marker Pen,Office Supplies,Writing Instruments,46
+205,Desk Organizer Box,Office Supplies,Desk Organizers,218
+206,Floor Lamp,Home & Kitchen,Lighting,6067
+207,Hydrating Face Wash,Beauty & Personal Care,Skincare,1373
+208,Cable Organizer,Office Supplies,Desk Organizers,385
+209,Wooden Sofa,Home & Kitchen,Furniture,72531
+210,Ikigai,Books,Self Help,1179
+211,Hair Serum,Beauty & Personal Care,Haircare,1426
+212,BODY LOTION,Beauty & Personal Care,Personal Care,447
+213,Samsung Galaxy Tab S9,Electronics,Tablet,61442
+214,  A4 Paper Pack,Office Supplies,Stationery,607
+215,Motul Bike Oil,Automotive,Engine Oil,4478
+216,Ruled Notebook,Office Supplies,Notebooks,329
+217,Panchatantra Stories,Books,Children,856
+218,Math Learning Board,Toys & Games,Educational Toys,5855
+219,Plain Notebook,Office Supplies,Notebooks,733
+220,Cricket Ball,Sports & Fitness,Cricket,13251
+221,A4 Paper Pack,Office Supplies,Stationery,468
+222,Bench Press,Sports & Fitness,Gym Equipment,34491
+223,Mountain Bike,Sports & Fitness,Cycling,7026
+224,Motul Bike Oil,Automotive,Engine Oil,1939
+225,Mattress Protector,Home & Kitchen,Bedding,4270
+226,Plant Protein,Health,Protein Supplements,1590
+227,100 Piece Puzzle,Toys & Games,Puzzles,1936
+228,Apple Watch SE,Electronics,Smartwatch,22516
+229,Plain Notebook,Office Supplies,Notebooks,464
+230,Iron Man Figure,Toys & Games,Action Figures,1959
+231,Dell Optical Mouse,Electronics,Mouse,2831
+232,Mobil 1 Engine Oil,Automotive,Engine Oil,1221
+233,Alphabet Blocks,Toys & Games,Educational Toys,3869
+234,Plain Notebook,Office Supplies,Notebooks,130
+235,Batman Figure,Toys & Games,Action Figures,1207
+236,Anti Hair Fall Shampoo,Beauty & Personal Care,Haircare,2240
+237,Compression Wear,Clothing,Sportswear,2088
+238,Liquid Foundation   ,Beauty & Personal Care,Makeup,4071
+239,Stretch Denim Jeans,Clothing,Jeans,2416
+240,Serving Bowl,Home & Kitchen,Dining,1534
+241,Bath Mat,Home & Kitchen,Bathroom Accessories,4818
+242,Plain Notebook,Office Supplies,Notebooks,708
+243,epson ink bottle,Office Supplies,Printer Supplies,2773
+244,Dashboard Camera,Automotive,Car Accessories,14790
+245,Meditation Cushion,Sports & Fitness,Yoga,760
+246,Body Wash,Beauty & Personal Care,Personal Care,1371
+247,Full Face Helmet,Automotive,Helmets,1732
+248,Matte Lipstick,Beauty & Personal Care,Makeup,1679
+249,Marker Pen,Office Supplies,Writing Instruments,413
+250,Bridgestone Tubeless Tyre,Automotive,Tyres,28446
+251,Amazfit GTR Mini,Electronics,Smartwatch,44718
+252,Elon Musk,Books,Biography,1224
+253,Digital Thermometer,Health,Medical Devices,15262
+254,Zip Hoodie,Clothing,Hoodie,5133
+255,Dining Table Set,Home & Kitchen,Furniture,60377
+256,Bridgestone Tubeless Tyre,Automotive,Tyres,22482
+257,Shoe Rack,Home & Kitchen,Storage,7719
+258,Swimming Costume,Sports & Fitness,Swimming,5743
+259,Paper Clips,Office Supplies,Stationery,184
+260,Sunscreen SPF 50,Beauty & Personal Care,Skincare,3366
+261,Meditation Cushion,Sports & Fitness,Yoga,1531
+262,Sunscreen SPF 50,Beauty & Personal Care,Skincare,1358
+263,Waterproof Mascara,Beauty & Personal Care,Makeup,2312
+264,Pen Stand,Office Supplies,Desk Organizers,1368
+265,Nutrition Bar,Health,Nutrition,1546
+266,Calcium Supplement,Health,Vitamins,2282
+267,Aloe Vera Gel,Beauty & Personal Care,Skincare,2730
+268,Canvas Painting,Home & Kitchen,Home Decor,16234
+269,Cosmos,Books,Science,1034
+270,Leather Jacket,Clothing,Jacket,9817
+271,Hand Sanitizer,Health,Healthcare,509
+272,Face Wash   ,Beauty & Personal Care,Personal Care,2546
+273,Ludo Deluxe,Toys & Games,Board Games,1881
+274,Filing Cabinet,Office Supplies,Office Furniture,4863
+275,Spider-Man Figure,Toys & Games,Action Figures,2119
+276,  Brother Drum Unit,Office Supplies,Printer Supplies,4133
+277,Pulse Oximeter,Health,Medical Devices,26996
+278,Bike Cover,Automotive,Bike Accessories,11313
+279,Ruled Notebook,Office Supplies,Notebooks,837
+280,Pool Towel,Sports & Fitness,Swimming,8841
+281,Ludo Deluxe,Toys & Games,Board Games,1533
+282,Cricket Helmet,Sports & Fitness,Cricket,12463
+283,Zinc Tablets,Health,Vitamins,710
+284,Football Shoes,Sports & Fitness,Football,4769
+285,Apollo Car Tyre,Automotive,Tyres,29731
+286,Alphabet Blocks   ,Toys & Games,Educational Toys,3995
+287,Moisturizing Cream,Beauty & Personal Care,Skincare,636
+288,RC Helicopter   ,Toys & Games,Remote Control Toys,4862
+289,Math Learning Board,Toys & Games,Educational Toys,2139
+290,Logitech M185,Electronics,Mouse,2962
+291,Herbal Conditioner,Beauty & Personal Care,Haircare,306
+292,Fitness Tracker,Sports & Fitness,Running,12932
+293,Half Face Helmet,Automotive,Helmets,886
+294,Polo T-Shirt,Clothing,T-Shirt,641
+295,Vacuum Cleaner,Home & Kitchen,Cleaning Supplies,2261
+296,Math Learning Board,Toys & Games,Educational Toys,2246
+297,Football,Sports & Fitness,Football,4206
+298,Jigsaw Puzzle,Toys & Games,Puzzles,2022
+299,Checked Shirt,Clothing,Shirt,2844
+300,Zinc Tablets,Health,Vitamins,2555
+301,Clean Code,Books,Technology,2258
+302,Nikon Z50,Electronics,Camera,51531
+303,Hardbound Notebook,Office Supplies,Notebooks,730
+304,Gym T-Shirt,Clothing,Sportswear,1054
+305,Protein Isolate,Health,Protein Supplements,7442
+306,Whey Protein,Health,Protein Supplements,4198
+307,Dashboard Camera,Automotive,Car Accessories,12532
+308,Batting Gloves,Sports & Fitness,Cricket,2513
+309,Anti Hair Fall Shampoo,Beauty & Personal Care,Haircare,3310
+310,Desk Organizer Box,Office Supplies,Desk Organizers,646
+311,Redragon Cobra,Electronics,Mouse,1686
+312,Bath Mat,Home & Kitchen,Bathroom Accessories,5375
+313,Mixer Grinder,Home & Kitchen,Kitchen Appliances,48426
+314,Car Vacuum Cleaner,Automotive,Car Accessories,6905
+315,Dell UltraSharp 27,Electronics,Monitor,26682
+316,Pool Towel,Sports & Fitness,Swimming,7956
+317,Cricket Ball,Sports & Fitness,Cricket,9675
+318,Aloe Vera Gel,Beauty & Personal Care,Skincare,2438
+319,Sports Hoodie,Clothing,Hoodie,4276
+320,Off Road Helmet,Automotive,Helmets,3860
+321,Motul Bike Oil,Automotive,Engine Oil,3509
+322,First Aid Kit,Health,First Aid,1838
+323,Party Dress,Clothing,Dress,7536
+324,Mop Set,Home & Kitchen,Cleaning Supplies,1415
+325,Linen Casual Shirt,Clothing,Shirt,3107
+326,Yoga Strap,Sports & Fitness,Yoga,5236
+327,Scrabble,Toys & Games,Board Games,3279
+328,Car Vacuum Cleaner,Automotive,Car Accessories,14552
+329,Cricket Bat,Sports & Fitness,Cricket,13610
+330,Face Wash,Beauty & Personal Care,Personal Care,227
+331,Cutlery Set,Home & Kitchen,Dining,870
+332,Pressure Cooker,Home & Kitchen,Cookware,13255
+333,Waterproof Mascara,Beauty & Personal Care,Makeup,9493
+334,Sony Alpha A6400,Electronics,Camera,109006
+335,Dashboard Polish,Automotive,Car Care,3836
+336,Wallet,Clothing,Accessories,2368
+337,Ocean Mist Body Spray,Beauty & Personal Care,Fragrances,11142
+338,Adjustable Dumbbells,Sports & Fitness,Gym Equipment,4396
+339,Towel Rack,Home & Kitchen,Bathroom Accessories,3370
+340,Multivitamin Tablets,Health,Vitamins,1266
+341,Motorcycle Gloves,Automotive,Bike Accessories,4878
+342,Bike Helmet Lock,Automotive,Bike Accessories,2423
+343,Casual Sneakers,Clothing,Footwear,8292
+344,Oversized Hoodie,Clothing,Hoodie,1531
+345,Plant Protein,Health,Protein Supplements,3457
+346,Air Fryer,Home & Kitchen,Kitchen Appliances,34841
+347,Educated,Books,Non-Fiction,1061
+348,Decorative Mirror,Home & Kitchen,Home Decor,1161
+349,Body Lotion,Beauty & Personal Care,Personal Care,1611
+350,Apollo Car Tyre,Automotive,Tyres,22552
+351,Linen Casual Shirt,Clothing,Shirt,2030
+352,Michelin Radial Tyre,Automotive,Tyres,27703
+353,RC Sports Car,Toys & Games,Remote Control Toys,3053
+354,Electric Trimmer,Beauty & Personal Care,Grooming,3886
+355,Servo Engine Oil,Automotive,Engine Oil,3322
+356,Vacuum Cleaner,Home & Kitchen,Cleaning Supplies,845
+357,Mattress Protector,Home & Kitchen,Bedding,1407
+358,Track Pants,Clothing,Sportswear,2991
+359,Air Fryer,Home & Kitchen,Kitchen Appliances,47986
+360,Elon Musk,Books,Biography,831
+361,Denim Jacket,Clothing,Jacket,11904
+362,Bandage Roll,Health,First Aid,1340
+363,ball pen,Office Supplies,Writing Instruments,534
+364,Water Bottle,Home & Kitchen,Dining,2826
+365,Water Bottle,Home & Kitchen,Dining,5831
+366,A4 Paper Pack,Office Supplies,Stationery,216
+367,Nikon Z50,Electronics,Camera,105344
+368,Tintin Adventures,Books,Comics,732
+369,Amazfit GTR Mini,Electronics,Smartwatch,20983
+370,Fitness Tracker,Sports & Fitness,Running,13684
+371,Captain America Figure,Toys & Games,Action Figures,598
+372,Xiaomi Pad 7,Electronics,Tablet,39238
+373,Open Face Helmet,Automotive,Helmets,6373
+374,Bookshelf,Office Supplies,Office Furniture,49078
+375,Beard Oil,Beauty & Personal Care,Grooming,3466
+376,Bookshelf,Home & Kitchen,Storage,4801
+377,Pullover Hoodie,Clothing,Hoodie,4821
+378,Puffer Jacket,Clothing,Jacket,5561
+379,Non Stick Pan,Home & Kitchen,Cookware,5254
+380,RC Drone,Toys & Games,Remote Control Toys,5067
+381,Bookshelf,Home & Kitchen,Storage,6107
+382,Herbal Conditioner,Beauty & Personal Care,Haircare,2190
+383,Electrolyte Powder,Health,Nutrition,3027
+384,Car Phone Holder,Automotive,Car Accessories,13185
+385,Energy Drink,Health,Nutrition,2262
+386,HP Ink Cartridge,Office Supplies,Printer Supplies,1128
+387,RUNNING CAP,Sports & Fitness,Running,14956
+388,Car Wax,Automotive,Car Care,266
+389,Casual Summer Dress,Clothing,Dress,2966
+390,Ocean Mist Body Spray,Beauty & Personal Care,Fragrances,1241
+391,Building Blocks Set,Toys & Games,Educational Toys,4902
+392,Elon Musk,Books,Biography,841
+393,Party Dress,Clothing,Dress,4489
+394,Sterile Gauze,Health,First Aid,586
+395,Stainless Steel Pot,Home & Kitchen,Cookware,6614
+396,Hand Wash,Beauty & Personal Care,Personal Care,690
+397,Asterix Collection,Books,Comics,511
+398,Vitamin C Tablets,Health,Vitamins,359
+399,Drawer Organizer,Home & Kitchen,Storage,4454
+400,Motorcycle Gloves,Automotive,Bike Accessories,14833
+401,Pulse Oximeter,Health,Medical Devices,20589
+402,Hair Oil,Beauty & Personal Care,Haircare,2675
+403,Water Bottle Cage,Sports & Fitness,Cycling,138618
+404,Meal Replacement Shake,Health,Nutrition,2955
+405,Car Vacuum Cleaner,Automotive,Car Accessories,11154
+406,Party Dress,Clothing,Dress,3320
+407,Fujifilm X-T30,Electronics,Camera,54803
+408,Gel Pen,Office Supplies,Writing Instruments,758
+409,Fujifilm X-T30,Electronics,Camera,42349
+410,Hand Sanitizer,Health,Healthcare,3314
+411,Wall Clock,Home & Kitchen,Home Decor,19061
+412,Formal Trousers,Clothing,Trousers,2506
+413,  Fresh Citrus Perfume,Beauty & Personal Care,Fragrances,7265
+414,Can't Hurt Me,Books,Self Help,1215
+415,OnePlus Pad,Electronics,Tablet,25588
+416,Medical Tape,Health,First Aid,2252
+417,Spider-Man Figure,Toys & Games,Action Figures,2182
+418,Sterile Gauze,Health,First Aid,1551
+419,Fitness Tracker,Sports & Fitness,Running,4538
+420,Yoga Block,Sports & Fitness,Yoga,2738
+421,Resistance Bands,Sports & Fitness,Gym Equipment,42555
+422,Car Wax,Automotive,Car Care,2440
+423,Training Cones,Sports & Fitness,Football,11385
+424,Electrolyte Powder,Health,Nutrition,3327
+425,LED Table Lamp,Home & Kitchen,Lighting,5212
+426,Sports Hoodie,Clothing,Hoodie,3100
+427,Bike Mobile Mount,Automotive,Bike Accessories,13765
+428,Sterile Gauze,Health,First Aid,1212
+429,Frying Pan,Home & Kitchen,Cookware,12638
+430,Executive Desk,Office Supplies,Office Furniture,5326
+431,Blood Pressure Monitor,Health,Medical Devices,2220
+432,Evening Dress,Clothing,Dress,6676
+433,Seat Cover Set,Automotive,Car Accessories,469
+434,Glucometer,Health,Medical Devices,21893
+435,  Open Face Helmet,Automotive,Helmets,13184
+436,Cycling Helmet,Sports & Fitness,Cycling,20509
+437,Wallet,Clothing,Accessories,2391
+438,Xiaomi Pad 7,Electronics,Tablet,69818
+439,Queen Size Bed,Home & Kitchen,Furniture,67930
+440,LED TABLE LAMP,Home & Kitchen,Lighting,651
+441,Goalkeeper Gloves,Sports & Fitness,Football,4962
+442,Servo Engine Oil,Automotive,Engine Oil,4795
+443,Motorcycle Gloves,Automotive,Bike Accessories,7868
+444,Adjustable Dumbbells,Sports & Fitness,Gym Equipment,44343
+445,Toothbrush Holder,Home & Kitchen,Bathroom Accessories,1725
+446,HP Wireless Mouse,Electronics,Mouse,2625
+447,Data Structures in C++,Books,Technology,3116
+448,Doctor Doll,Toys & Games,Dolls,2986
+449,Maxi Dress,Clothing,Dress,2313
+450,Toothbrush Holder,Home & Kitchen,Bathroom Accessories,2232
+451,Redragon K552,Electronics,Keyboard,2429
+452,Dashboard Polish,Automotive,Car Care,2673
+453,Monitor Stand,Office Supplies,Desk Organizers,146
+454,Road Bike,Sports & Fitness,Cycling,21285
+455,Formal Leather Shoes,Clothing,Footwear,3616
+456,Jigsaw Puzzle,Toys & Games,Puzzles,1423
+457,Bomber Jacket,Clothing,Jacket,11570
+458,Cosmos,Books,Science,2358
+459,Towel Rack,Home & Kitchen,Bathroom Accessories,3260
+460,Jigsaw Puzzle,Toys & Games,Puzzles,2078
+461,Heating Pad,Health,Healthcare,2227
+462,File Folder,Office Supplies,Stationery,964
+463,Orthopedic Pillow,Health,Healthcare,839
+464,A4 Paper Pack,Office Supplies,Stationery,1171
+465,Nebulizer,Health,Medical Devices,18085
+466,Air Fryer,Home & Kitchen,Kitchen Appliances,57499
+467,Protein Powder,Health,Nutrition,2182
+468,Spiral Notebook,Office Supplies,Notebooks,970
+469,Protein Powder   ,Health,Nutrition,4214
+470,Cleaning Brush,Home & Kitchen,Cleaning Supplies,1971
+471,File Folder,Office Supplies,Stationery,996
+472,Cricket Helmet,Sports & Fitness,Cricket,8638
+473,BenQ GW2480,Electronics,Monitor,10786
+474,Boat Rockerz 550,Electronics,Headphones,2889
+475,Vitamin C Tablets,Health,Vitamins,2133
+476,Redragon K552,Electronics,Keyboard,1974
+477,Blanket,Home & Kitchen,Bedding,6766
+478,Racing Helmet,Automotive,Helmets,2114
+479,Pulse Oximeter,Health,Medical Devices,4387
+480,Cleaning Brush,Home & Kitchen,Cleaning Supplies,2266
+481,Wall Clock,Home & Kitchen,Home Decor,1044
+482,Running Cap,Sports & Fitness,Running,7448
+483,Energy Drink,Health,Nutrition,2527
+484,Tyre Polish,Automotive,Car Care,2458
+485,Sapiens,Books,Non-Fiction,1078
+486,RC Sports Car,Toys & Games,Remote Control Toys,4943
+487,Sapiens,Books,Non-Fiction,858
+488,Amazfit GTR Mini,Electronics,Smartwatch,46041
+489,Dell UltraSharp 27,Electronics,Monitor,32362
+490,Motorcycle Gloves,Automotive,Bike Accessories,3759
+491,OnePlus Pad,Electronics,Tablet,30957
+492,Spider-Man Origins,Books,Comics,691
+493,Desk Organizer Box,Office Supplies,Desk Organizers,1070
+494,Racket Bag,Sports & Fitness,Badminton,4121
+495,Batman Figure,Toys & Games,Action Figures,549
+496,MASS GAINER,Health,Protein Supplements,6128
+497,RC Drone,Toys & Games,Remote Control Toys,1768
+498,Hair Clipper,Beauty & Personal Care,Grooming,4496
+499,Hair Clipper,Beauty & Personal Care,Grooming,3544
+500,Pendant Light,Home & Kitchen,Lighting,3512
